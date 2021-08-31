@@ -30,29 +30,3 @@ The best way to reach me is by [email](mailto:nathan.fletcher@gmail.com).
 The MIT License (MIT)
 
 Copyright (c) 2021 Nathan Fletcher
-
-
-Sequence 
-  prop
-    colors: []
-    playerInput: []
-  methods:
-    getNext() return a string
-    isCorrect() return true/false
-
-Game
-  prop
-    history of 
-  methods
-    displayPercent - chart.js
-    
-ui 
-  inputs:
-    3 buttons - players array
-    wishlist: feedback for a miss - possibly another chance..
-
-  output:
-    endgame feedback - score - final one
-    displayLight() - use setInterval and .css
-
-
